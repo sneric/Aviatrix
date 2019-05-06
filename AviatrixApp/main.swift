@@ -33,7 +33,7 @@ func fly(myPlane : Aviatrix) {
     let response = Int(readLine()!)
     var desiredLocation = ""
     
-    if response! >= 0 && response! < 4 {
+    if response! >= 0 && response! < 5 {
         desiredLocation = myPlane.knownDestinations()[response!]
         
         print("🛫 Preparing for takeoff...")
