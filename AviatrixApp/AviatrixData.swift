@@ -48,9 +48,9 @@ class AviatrixData {
             "Shanghai" : 6410
         ],
         "Shanghai" : [
-            "St. Louis" : 1150,
-            "Phoenix" : 508,
-            "Denver" : 390,
+            "St. Louis" : 6150,
+            "Phoenix" : 6400,
+            "Denver" : 6300,
             "SLC" : 6410,
             "Shanghai" : 0,
         ]
